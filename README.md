@@ -9,13 +9,13 @@ This project serves as a redemption project for the Ropes assessment. I learn an
 
 ## Start Project
 
-- make up
+- `make up`
 
 After containers are up & running:
 
-- make db-init
+- `make db-init`
 
 ## View Project
 
-- Client: http://localhost:5173/
-- Server: http://localhost:8080/listings/ (GET Listings)
+- Client: `http://localhost:5173/`
+- Server: `http://localhost:8080/listings/` (GET Listings)
